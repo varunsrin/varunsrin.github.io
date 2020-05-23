@@ -1,24 +1,10 @@
 ---
 layout: page
-title: About
+title: Varun Srinivasan
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+I'm Varun Srinivasan and I build and invest in technology startups.
 
-### Features
+I was a Director at [Coinbase](http://www.coinbase.com/){:target="_blank"} where I built product and engineering teams for four years. Before that, I founded [SoundFocus](https://techcrunch.com/2013/08/14/yc-backed-soundfocus-launches-with-an-app-for-2020-hearing-with-mysterious-hardware-on-the-way/){:target="_blank"} to help people with hearing loss, and worked at [Microsoft](https://www.microsoft.com/){:target="_blank"}. I grew up in India and studied at Carnegie Mellon University.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+You can reach me on [Telegram](https://t.me/varunsrin){:target="_blank"} or [Twitter](https://www.twitter.com/varunsrin){:target="_blank"}.
