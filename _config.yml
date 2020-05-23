@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Varun Srinivasan
+url: https://www.varunsrinivasan.com/
+title: Varun Srinivasan's Page
+description: # description here
 twitter:
-  username: #yourusername
+  username: varunsrin
   card: summary
-  creator: #yourusername
+  creator: varunsrin
 author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
+  twitter: varunsrin
+  name: Varun Srinivasan
+  avatar: #youravatar
   email: #youremail
-  url: #yoururl
+  url: https://www.varunsrinivasan.com/
 permalink: pretty
 
 baseurl: ""
