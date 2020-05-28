@@ -9,7 +9,7 @@ image: /assets/posts/2020-05-27-technical-shorts-not-technical-debt/aging_platfo
 
 When I was at Coinbase in 2017 we found ourselves going through hypergrowth with a codebase that had racked up quite a bit of tech debt. The results weren’t pretty: frequent outages, unhappy customers, and sleepless nights.  We learned the hard way that a small part of our debt caused most of the problems. The trick lay in figuring out which part that was.
 
-Let’s start with a definition: technical debt is taking a shortcut to move faster in exchange for some downside. It might create code that’s hard to understand or a site that crashes when traffic goes up.  But technical debt is a misnomer because these shortcuts aren’t like loans at all. They behave like [physical short-sells](https://en.wikipedia.org/wiki/Short_(finance)){:target='blank'}[^1]. That's when I borrow stock from you and sell it for money, with a promise that I'll buy it back and return it next year. The distinction is important because you can lose finite amounts of money taking a loan, but infinite amounts with a short position.
+Let’s start with a definition: technical debt is taking a shortcut to move faster in exchange for some downside. It might create code that’s hard to understand or a site that crashes when traffic goes up.  But technical debt is a misnomer because these shortcuts aren’t like loans at all. They behave like [physical short-sells](https://en.wikipedia.org/wiki/Short_(finance)){:target='blank'}[^1]. That's when you borrow stock and sell it for money, with a promise that you'll buy it back and return it next month. The distinction is important because you can lose finite amounts of money taking a loan, but infinite amounts with a short position.
 
 Should you take a technical short position? The decision is easy for a young startup searching for product-market fit. Shipping the next feature could be the difference between raising money and death. The cost of downtime or a little productivity loss is insignificant [^2]. But engineering leaders at hypergrowth companies must deal with a very different calculus.
 
@@ -57,7 +57,7 @@ Fault intolerant systems tend to carry tail risk. This is a fancy way of saying 
 
 We’ve talked about four types of shorts so far: clunky abstractions, aging platforms, hidden bottlenecks and fault intolerance. Can you map these patterns and growth curves onto your codebase? Or find new types that have different curves? It might change your perspective on which short you need to fix next.
 <br/><br/>
-*Thanks to Keith Adams, Tomas Baretto, Noah Levin and Shaun Young for helping with drafts.*
+*Thanks to [Keith Adams](https://twitter.com/keithmadams), [Tomas Barreto](https://twitter.com/tomasrb), [Noah Levin](https://twitter.com/nlevin) and [Shaun Young](https://twitter.com/shaunyou) for help with drafts.*
 <br/><br/>
 
 -----
