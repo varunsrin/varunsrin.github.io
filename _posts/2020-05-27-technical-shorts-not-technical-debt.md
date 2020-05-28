@@ -4,7 +4,7 @@ title: Technical Shorts, not Technical Debt
 description: Four types of technical shortcuts and how to avoid them.
 comments: true
 tags: [engineering]
-image: /assets/posts/2020-05-27-technical-shorts-not-technical-debt/aging_platforms.png
+image: assets/posts/2020-05-27-technical-shorts-not-technical-debt/preview.png
 ---
 
 When I was at Coinbase in 2017 we found ourselves going through hypergrowth with a codebase that had racked up quite a bit of tech debt. The results weren’t pretty: frequent outages, unhappy customers, and sleepless nights.  We learned the hard way that a small part of our debt caused most of the problems. The trick lay in figuring out which part that was.
