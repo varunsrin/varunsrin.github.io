@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Varun Srinivasan
+image: /assets/layout/varun.png
 ---
+<img src="/assets/layout/varun.png" width="175" height="175" />
+
 
 I build and invest in technology startups.
 
