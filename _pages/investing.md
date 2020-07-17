@@ -18,6 +18,9 @@ People underestimate how big crypto will be, but overestimate how fast we will g
 #### Builder Productivity
 The world needs more builders and we can't produce them fast enough. The next best thing is to reduce the barrier to becoming a builder or to give builders more leverage. [Datadog](https://www.datadoghq.com/) makes engineers productive by making instrumentation simple. [Waldo](https://www.waldo.io) lets you automate mobile testing without engineers. Product teams will pay a lot for tools that let them hire less and create more.
 
+#### Unbundling Universities
+Universities are in for a tough time. COVID-19 will push an already struggling industry into decline as students and teachers opt out. A university is place where you learn job skills, earn a badge, find an alumni network, meet friends and partners, match with employers, find cheap living space and communities that share your interests. Each piece will become unbundled as people find their own path out of secondary education and into the world. I’m interested in companies that are going after any part of this stack for people early in their careers.
+
 #### Hiring Across Borders
 It's difficult and expensive to hire people in other countries unless you're a Fortune 500 company. The compliance, legal and financial overhead is large. Most startups end up hiring within their own countries. As remote work becomes the norm, this isn't going to cut it anymore. Companies will want to find reasonable, turn-key solutions to tap into the global talent pool and will look for the next generation Seqouia One or Trinet.
 
