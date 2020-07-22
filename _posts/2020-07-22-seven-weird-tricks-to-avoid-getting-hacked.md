@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven Weird Tricks to Avoid Getting Hacked
-description: 
+description: A guide on how to protect your online accounts from attackers.
 comments: true
 tags: [security]
 ---
