@@ -52,5 +52,5 @@ Zoom on Mac OS has caused serious issues like [zoom bombing](https://krebsonsecu
 -----
 
 [^1]: It's important that you know how to recover this if you ever forget your password.
-[^2]: It's a good idea to save them in a secure place separate from your passwords. You write them down on paper and save them in a safe physical location.
+[^2]: It's a good idea to save them in a secure place separate from your passwords. You can write them down and save them in a safe physical location.
 [^3]: Go to Settings, scroll down to the app, and select it.
