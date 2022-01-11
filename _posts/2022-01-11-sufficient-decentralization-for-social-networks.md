@@ -26,7 +26,7 @@ We’ve spilled a lot of ink over decentralizing social networks, but most users
 
 ### Scaling Networks
 
-Social networks are a series of messages passed between users through a centralized server. An easy way to decrease centralization is to remove the need for a centralized server. Users could choose any server they like to store their messages and sign each one with a public/private key pair [1]. The public key becomes a unique identifier for the user, and the messages are tamper-proof.
+Social networks are a series of messages passed between users through a centralized server. An easy way to decrease centralization is to remove the need for a centralized server. Users could choose any server they like to store their messages and sign each one with a public/private key pair [^1]. The public key becomes a unique identifier for the user, and the messages are tamper-proof.
 
 {% include image.html name="simple_hosts.png" %}
 
