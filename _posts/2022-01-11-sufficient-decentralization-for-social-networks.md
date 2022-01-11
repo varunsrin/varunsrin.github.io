@@ -26,11 +26,11 @@ We’ve spilled a lot of ink over decentralizing social networks, but most users
 
 ### Scaling Networks
 
-Social networks are a series of messages passed between users through a centralized server. An easy way to decrease centralization is to remove the need for a centralized server. Users could choose any server they like to store their messages and sign each one with a public/private key pair [^1]. The public key becomes a unique identifier for the user, and the messages are tamper-proof.
+Social networks are a series of messages passed between users through a centralized server. An easy way to decrease centralization is to remove the need for a centralized server. Users could choose any server they like to store their messages and sign each one with a public/private key pair[^1]. The public key becomes a unique identifier for the user, and the messages are tamper-proof.
 
 {% include image.html name="simple_hosts.png" %}
 
-Using a social network in a decentralized way should be free and straightforward, but this is difficult in practice. Users want their messages available to all followers, which requires an always on-server in the cloud. A reasonable expectation is that it will be as complex and expensive as running your own website. **But we can’t onboard billions of people by asking everyone to run a server**.
+Using a social network in a decentralized way should be free and straightforward, but this is difficult in practice. Users want their messages available to all followers, which requires an always on-server in the cloud. A reasonable expectation is that self-hosting will be as complex and expensive as running your own website. **But we can’t onboard billions of people by asking everyone to run a server**.
 
 This is where managed hosts come in. These companies host users' social data, like Gmail and Outlook host email. Managed hosts can offer features that would be impractical for users to run at scale, like a content moderation system. They can provide better user experiences, and we should expect most people to use them instead of running their own server
 
