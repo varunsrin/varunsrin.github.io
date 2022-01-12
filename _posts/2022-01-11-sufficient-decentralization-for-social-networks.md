@@ -4,7 +4,7 @@ title: Sufficient Decentralization for Social Networks
 description: A design pattern to reduce centralized control and change incentives in social networks.
 comments: true
 tags: [crypto]
-image: assets/posts/2022-01-11-build-a-decentralized-social-network/hosts_and_registry.png
+image: assets/posts/2022-01-11-sufficient-decentralization-for-social-networks/hosts_and_registry.png
 ---
 
 Every year, centralized social networks place more restrictions on what users and developers can do. They seem to believe that limiting choices is the path to a healthy network, while the opposite is probably true. A decentralized social network can challenge this hypothesis by making two powerful promises that centralized networks cannot. They can guarantee that users own a direct relationship with their audience and that developers can always build apps on the network.
