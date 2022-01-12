@@ -20,8 +20,13 @@
       {% unless page.tag or page.title %}
         - {{ site.description | escape }}
       {% endunless %}
-    </title>
+  </title>
   
+  {% if page.image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}" />
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}" />
+  {% endif %}
+
   <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.png">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
