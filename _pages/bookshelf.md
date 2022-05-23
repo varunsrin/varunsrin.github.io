@@ -40,6 +40,7 @@ This is a selection of the books I've read that I'd wholeheartedly recommend to 
 
 - [The Better Angels of our Nature: Why Violence Has Declined](https://www.amazon.com/dp/0670022950)
 - [Guns, Germs and Steel](https://www.amazon.com/dp/0393354326) 
+- [The WEIRDest People in the World](https://www.amazon.com/dp/0374173222) 
 
 <br />
 **Science Fiction**
