@@ -9,13 +9,13 @@ image: assets/posts/2022-05-23-a-better-model-for-valuing-startup-equity/equity_
 
 If you’re joining a startup and want a good financial outcome, there are two critical things to get right. Ensure that there is *some* probability of an IPO and that your stock won’t expire before it happens. Unfortunately, most equity advice is bad and distracts people from these two important points.
 
-The most insidious advice is *"don't join a startup for the money."* Startups might pay lower salaries, but they're one of the best ways to [create wealth](http://www.paulgraham.com/wealth.html){:target='blank'}. You just need to be diligent about choosing a good one. This advice is terrible because it discourages people from startups or encourages them to treat equity like a lottery ticket.
+The most insidious advice is *"don't join a startup for the money."* It discourages people from joining startups or encourages them to treat their equity like a lottery ticket. Startups might pay lower salaries, but they're one of the best ways to [create wealth](http://www.paulgraham.com/wealth.html){:target='blank'}. You just need to be diligent about choosing a good one. 
 
 Why is most advice about equity incorrect?  One reason is that feedback loops are long and often single-threaded. If someone tells you that a company will never be big, it may take years to prove them wrong. Another is that valuing startups is counter-intuitive, and people's first instincts tend to be incorrect.  
 
 Here’s an example — let’s say you have options to buy 0.01% of a company’s stock. It costs $100,000 to exercise, and the last round from two years ago valued your company at $15B. How much are your options worth?  The most common answer — $1.4M minus taxes — is wrong.  
 
-When investors buy shares at $15B, they do it because they believe the company's expected value is higher. The valuation[^1] is also out-of-date since two years have passed, and the underlying business may have changed. Finally, good deals for investors aren’t always good for employees. Investors write many checks, but an employee can only work at one company at a time. An investor might equally prefer a 1% chance of $10B or a 10% chance of $1B, but an employee should pick the latter [^2].
+When investors buy shares at $15B, they do it because they believe the company's expected value is higher. Private valuations[^1] also don't update between rounds, and the market or business fundamentals may have changed significantly. Finally, good deals for investors aren’t always good for employees. Investors write many checks, but an employee can only work at one company at a time. An investor might equally prefer a 1% chance of $10B or a 10% chance of $1B, but an employee should pick the latter [^2].
 
 <br>
 
@@ -30,6 +30,9 @@ The acquisition outcomes in the table might seem pessimistic but remember that [
 Probabilities are more nuanced and depend on the company. If you know angel investors or VCs in your market, you could ask them for advice. Asking the founders might also work if you have a direct line to them. All else failing, you can come up with your own estimates with these rough guidelines: 
 
 {% include image.html name="probability_table.png" width="600" %}
+
+IPO probabilities are tricky to estimate, but you can look to historical data as a starting point. Approximately [2.5%](https://www.angellist.com/blog/angellist-unicorn-rate) of seed-stage startups reach a $1B valuation, and many of them will go on to IPO. If the company is later-stage, has very unusually strong fundamentals or exceptional founders, the odds will be even better. 
+
 
 Plug these numbers into [this spreadsheet](https://docs.google.com/spreadsheets/d/1tWmJ1Ut1gJuXbmsGQlivJ-sBTVHNONuZGFYa7sY4s3s/edit?usp=sharing){:target='blank'} to get the expected value. Don’t forget to account for dilution, which happens at every round. The typical range is 10-30% dilution per round, depending on the public markets and how well the company is doing.  
 
@@ -78,12 +81,12 @@ Finally, this percentage is applied as a discount on the expected value to get t
 Startups are a great way to build wealth *if* you’re willing to sweat the details and choose well.  It’s important to choose one that you’re genuinely excited about. But if you find yourself having many to choose from, this framework can help you find the one that may have the best economic outcome.
 
 <br/>
-*Thanks to [Dan Romero](https://twitter.com/dwr){:target='blank'}, [Moh Almalkawi](https://twitter.com/moh){:target='blank'}, [Harj Taggar](https://twitter.com/harjtaggar){:target='blank'} and [Jesse Pollak](https://twitter.com/jessepollak/){:target='blank'} for help with drafts.*
+*Thanks to [Dan Romero](https://twitter.com/dwr){:target='blank'}, [Moh Almalkawi](https://twitter.com/moh){:target='blank'}, [Harj Taggar](https://twitter.com/harjtaggar){:target='blank'}, [Jesse Pollak](https://twitter.com/jessepollak/){:target='blank'}, [Charlie Harrington](https://twitter.com/whatrocks/){:target='blank'}, [Ryan Hoover](https://twitter.com/rrhoover/){:target='blank'} and Nate Abbott for help with drafts.*
 <br/><br/>
 
 -----
 
-[^1]: This is not the 409A valuation, which updates often but does a bad job of capturing a startup's potential.
+[^1]: This is not the 409A valuation, which updates often but does a bad job of capturing a startup's potential. See [Squaring venture capital valuations with reality](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301692?via%3Dihub){:target='blank'}
 
 [^2]: See the [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion){:target='blank'} for a formal statement of this argument.
 
