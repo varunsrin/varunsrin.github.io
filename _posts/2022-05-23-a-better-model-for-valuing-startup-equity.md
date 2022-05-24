@@ -81,7 +81,7 @@ Finally, this percentage is applied as a discount on the expected value to get t
 Startups are a great way to build wealth *if* you’re willing to sweat the details and choose well.  It’s important to choose one that you’re genuinely excited about. But if you find yourself having many to choose from, this framework can help you find the one that may have the best economic outcome.
 
 <br/>
-*Thanks to [Dan Romero](https://twitter.com/dwr){:target='blank'}, [Moh Almalkawi](https://twitter.com/moh){:target='blank'}, [Harj Taggar](https://twitter.com/harjtaggar){:target='blank'}, [Jesse Pollak](https://twitter.com/jessepollak/){:target='blank'}, [Charlie Harrington](https://twitter.com/whatrocks/){:target='blank'}, [Ryan Hoover](https://twitter.com/rrhoover/){:target='blank'}  for help with drafts.*
+*Thanks to [Dan Romero](https://twitter.com/dwr){:target='blank'}, [Moh Almalkawi](https://twitter.com/moh){:target='blank'}, [Harj Taggar](https://twitter.com/harjtaggar){:target='blank'}, [Jesse Pollak](https://twitter.com/jessepollak/){:target='blank'}, [Charlie Harrington](https://twitter.com/whatrocks/){:target='blank'}, [Ryan Hoover](https://twitter.com/rrhoover/){:target='blank'} and Nate Abbott for help with drafts.*
 <br/><br/>
 
 -----
