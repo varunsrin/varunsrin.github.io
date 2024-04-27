@@ -30,6 +30,7 @@ This is a selection of the books I've read that I'd wholeheartedly recommend to 
 <br />
 **Understanding Ourselves**
 
+- [Outlive: The Science and Art of Longevity](https://www.amazon.com/gp/product/0593236599/)
 - [Thinking, Fast and Slow](https://www.amazon.com/dp/0374533555)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/dp/1501144324)
 - [The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive](https://www.amazon.com/dp/0307476707)
@@ -41,6 +42,7 @@ This is a selection of the books I've read that I'd wholeheartedly recommend to 
 - [The Better Angels of our Nature: Why Violence Has Declined](https://www.amazon.com/dp/0670022950)
 - [Guns, Germs and Steel](https://www.amazon.com/dp/0393354326) 
 - [The WEIRDest People in the World](https://www.amazon.com/dp/0374173222) 
+- [The Righteous Mind: Why Good People Are Divided by Politics And Religion](https://www.amazon.com/dp/0307455777) 
 
 <br />
 **Science Fiction**
