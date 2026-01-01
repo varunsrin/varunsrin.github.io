@@ -1,15 +1,9 @@
 links:
 - title: About
   url: /
-- title: Writing
-  url: /writing
-- title: Investing
-  url: /investing
-- title: Bookshelf
-  url: /bookshelf
+- title: Writings
+  url: /writings
 - title: Readings
   url: /readings
-# - title: Search
-#   url: /search
-# - title: Rss
-#   url: /atom.xml
+- title: Bookshelf
+  url: /bookshelf
